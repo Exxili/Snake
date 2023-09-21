@@ -7,6 +7,9 @@ Based on Raylib c++ starter template.
 Ideas for future:
 
 Powerups to make snake go faster
+
 User Interface to indicate points
+
 HighScore board.
+
 Main Menu
