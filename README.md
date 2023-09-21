@@ -1,4 +1,4 @@
-# Raylib C++ Starter Template
+# Snake Game
 
 Based on Raylib c++ starter template.
 
